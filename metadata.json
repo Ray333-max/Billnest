@@ -1,0 +1,8 @@
+
+{
+  "name": "Billnest - Invoice & Client Pro",
+  "description": "A premium, Apple-inspired invoice and client management suite for modern freelancers and small businesses, featuring smooth animations and AI-powered business insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
